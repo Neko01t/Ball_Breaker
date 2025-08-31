@@ -21,8 +21,8 @@ let block= {
   colided:false,
 }
 let ball = {
-  x: 50,
-  y: 50,
+  x: 100,
+  y: 100,
   radius: 10,
   speed: 4,
   dx: 1,
