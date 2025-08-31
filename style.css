@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  background-color:#222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(100vw - 20px);
+  height: calc(100vh - 20px);
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.screen{
+  border-radius:10px;
+  border: 1px solid white ;
+}
