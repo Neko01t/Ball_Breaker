@@ -5,8 +5,8 @@ It’s still in progress and not fully playable yet.
 
 ## Current Status
 - [•] Basic HTML structure
-- [°] Paddle drawn on canvas
-- [°] Ball movement
-- [°] Collision detection
+- [•] Paddle drawn on canvas
+- [•] Ball movement
+- [•] Collision detection
 - [°] Breaking blocks
 - [°] Restart option
